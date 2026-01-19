@@ -1,3 +1,3 @@
-module github.com/jalaj711/go-des
+module github.com/culionbear/des
 
-go 1.21.4
+go 1.21.0
